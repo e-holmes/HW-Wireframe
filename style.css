@@ -1,7 +1,6 @@
-<style>
 
-body {background-color: rgb(187, 38, 38);}
 
-h1 { text-align: center;}
+body {font-size: 18px; font-family: Arial, Helvetica, sans-serif;background-color: grey;width:960px;}
 
-</style>
+.header { text-align: center;}
+
