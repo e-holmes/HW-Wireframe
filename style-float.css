@@ -1,0 +1,7 @@
+.clearfix::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+aside {float: right;}
+.section {float: left;}
