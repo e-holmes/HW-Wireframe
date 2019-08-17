@@ -2,5 +2,12 @@
 
 body {font-size: 18px; font-family: Arial, Helvetica, sans-serif;background-color: grey;width:960px;}
 
-.header { text-align: center;}
+.header { text-align: center;padding: auto}
 
+.nav { text-align: center;}
+
+.section {text-align: center;}
+
+.aside {text-align: center;}
+
+.footer {text-align: center;}
